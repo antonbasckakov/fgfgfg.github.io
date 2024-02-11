@@ -91,9 +91,9 @@ h1, h2, h3 {
 
 @font-face {
   font-family: 'ten';
-  src: url('../font/Cattedrale[RUSbypenka220]-Regular.ttf');
+  src: url('../font/Zlusa\ _font.ttf');
   src: local('one'), local('one'),
-      url('../font/Cattedrale[RUSbypenka220]-Regular.ttf') format('truetype');
+      url('../font/Zlusa\ _font.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
