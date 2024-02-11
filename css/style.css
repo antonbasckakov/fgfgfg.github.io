@@ -473,6 +473,7 @@ h1, h2, h3 {
   .contact_main_content_BG {
     background-image: url(../img/CONTACT.png);
     background-position: 40% 70%;
+    margin-bottom: 90PX;
   }
   
   .contact_li {
