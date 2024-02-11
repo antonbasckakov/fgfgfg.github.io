@@ -304,6 +304,7 @@ h1, h2, h3 {
   .special-bg-tree {
     background-image: url(../img/hard.png);
     background-size: cover;
+    margin-bottom: 60px;
     
   }
   
