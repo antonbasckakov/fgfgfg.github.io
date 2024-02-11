@@ -841,7 +841,7 @@ h1, h2, h3 {
 
  .heder_ul {
   display: flex;
-  
+  position: relative;
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -897,8 +897,10 @@ h1, h2, h3 {
     color: #7FFFD4;
     font-size: 40px;
     position: absolute;
+    top: 1px;
+    right: 5px;
+}
     
-  }
  
   .heder_ul_svg {
     stroke: #7FFFD4;
