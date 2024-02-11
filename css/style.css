@@ -840,7 +840,7 @@ h1, h2, h3 {
       font-family: 'seven', sans-serif;
       font-size: 50px;
       color: #7FFFD4;
-      text-decoration: none;
+      text-decoration: none !important;
       text-transform: uppercase;
       transition: 0.5s;
 
