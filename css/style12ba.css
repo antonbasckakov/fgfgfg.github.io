@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'one';
+    src: url('../font/MalterkaAl.otf');
+    src: local('one'), local('one'),
+        url('../font/MalterkaAl.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+  }
+html {
+    cursor: url(https://cdn.custom-cursor.com/db/cursor/32/Friends_Monica_GellerCursor.png) , default !important ;
+    background-color: rgb(240 241 245);
+    background-image: linear-gradient(rgb(210 213 219) 1px, transparent 1px), linear-gradient(to right, rgb(210 213 219) 1px, rgb(240 241 245) 1px);
+    background-size: 20px 20px;
+    display: grid;
+    height: 100%;
+    margin: 0;
+    font-family: 'one' ;
+    place-items: center;
+    color: rgb(22 25 30);
+}
+h1 {
+    font-family: 'tree';
+    align-items: center;
+} 
+.container {
+    width: 1170px;
+    margin: 0 auto;
+    padding-top: 50px;
+  }
+
+.a1 {
+ font-family: 'two';
+ color: #00008B;
+ font-size: 20px;
+ /*cursor:  url(https://snipp.ru/demo/712/pointer-1.cur) 4 1, pointer;;*/
+ cursor: url(https://cdn.custom-cursor.com/db/cursor/32/It_Pennywise_Cursor.png) , pointer !important ;
+}
+
+.img {
+    width: 60%;
+    height: 60%;
+}
+
+.figcaption {
+    font-family: 'one';
+    font-size: 50px;
+    padding-left: 20px;
+    margin-bottom: 50px;
+    color: #000000;
+}
+.main {
+    padding-left: 150px;
+}
+
+
+.img_diplom {
+    overflow-x: auto;
+    max-height: 750px;
+}
