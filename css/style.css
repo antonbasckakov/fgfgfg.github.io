@@ -100,7 +100,7 @@ h1, h2, h3 {
 
 
 @font-face {
-  font-family: 'eith';
+  font-family: 'eleven';
   src: url('../font/EBGaramond08-Regular.otf');
   src: local('one'), local('one'),
       url('../font/EBGaramond08-Regular.otf') format('truetype');
@@ -807,7 +807,7 @@ h1, h2, h3 {
 
 .li_hard {
     padding: 0 0 0 1rem;
-    font-family: 'eith';
+    font-family: 'eleven';
     
 }
 
