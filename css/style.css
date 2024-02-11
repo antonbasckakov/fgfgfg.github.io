@@ -1018,4 +1018,57 @@ h1, h2, h3 {
    color: #8B0000;
  }
 
+ .heder_ul {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: #1A1E23;
+ }
+
+ .heder_ul__ul {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  list-style-type: none;
+ }
+
+ .heder_ul__ul_li {
+    padding: 6px 0;
+
+    a {
+      position: relative;
+      display: block;
+      padding: 4px 0;
+      font-family: Lato, sans-serif;
+      color: #ecf0f1;
+      text-decoration: none;
+      text-transform: uppercase;
+      transition: 0.5s;
+
+      &::after {
+        position: absolute;
+        content: "";
+        top: 100%;
+        left: 0;
+        width: 100%;
+        height: 3px;
+        background: #3498db;
+        transform: scaleX(0);
+        transform-origin: right;
+        transition: transform 0.5s;
+      }
+
+      &:hover {
+        color: #95a5a6;
+      }
+
+      &:hover::after {
+        transform: scaleX(1);
+        transform-origin: left;
+      }
+    }
+  }
+
  
