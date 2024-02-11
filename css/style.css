@@ -965,3 +965,7 @@ h1, h2, h3 {
     font-size: 25px;
     
   }
+
+  .zoro {
+    cursor: url(https://cdn.custom-cursor.com/db/cursor/32/Friends_Monica_GellerCursor.png) , default !important ;
+  }
