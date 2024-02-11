@@ -99,6 +99,16 @@ h1, h2, h3 {
 }
 
 
+@font-face {
+  font-family: 'eith';
+  src: url('../font/EBGaramond08-Regular.otf');
+  src: local('one'), local('one'),
+      url('../font/EBGaramond08-Regular.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
 
 
 
@@ -797,7 +807,8 @@ h1, h2, h3 {
 
 .li_hard {
     padding: 0 0 0 1rem;
-    te
+    font-family: 'eith';
+    
 }
 
 .li_hard:first-child {
