@@ -306,6 +306,12 @@ h1, h2, h3 {
     background-size: cover;
     margin-bottom: 60px;
     
+  }s
+  .special-bg-treeee {
+    background-image: url(../img/hard.png);
+    background-size: cover;
+    margin-bottom: 60px;
+    
   }
   
   .item-right {
