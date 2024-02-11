@@ -809,7 +809,7 @@ h1, h2, h3 {
     --_x: var(--g)
   }
 
-  .gallery>a:nth-child(3) {
+  /*.gallery>a:nth-child(3) {
     clip-path: polygon(50% 50%, calc(100% - .5em) calc(100% - 1.2em), 100% calc(100% - 1.2em), 100% 100%, 0 100%, 0 calc(100% - 1em), .5em calc(100% - 1.2em));
     --_y: var(--g)
   }
@@ -817,7 +817,7 @@ h1, h2, h3 {
   .gallery>a:nth-child(4) {
     clip-path: polygon(50% 50%, 1.2em .5em, 1em 0, 0 0, 0 100%, 1em 100%, 1.2em calc(100% - .5em));
     --_x: calc(-1*var(--g))
-  }
+  }*/
 
   body {
     margin: 0;
