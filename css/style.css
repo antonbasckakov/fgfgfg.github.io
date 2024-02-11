@@ -241,7 +241,7 @@ h1, h2, h3 {
   }
   
   .special-bg-one8:hover {
-    background-image: linear-gradient(90deg, rgba(48, 64, 89, 0.84) -2.9%, rgba(53, 65, 83, 0) 65.7%), url(../img/speka.png;
+    background-image: linear-gradient(90deg, rgba(48, 64, 89, 0.84) -2.9%, rgba(53, 65, 83, 0) 65.7%), url(../img/speka.png;)
   }
 
   .special-bg-one9 {
@@ -250,6 +250,14 @@ h1, h2, h3 {
   
   .special-bg-one9:hover {
     background-image: linear-gradient(90deg, rgba(48, 64, 89, 0.84) -2.9%, rgba(53, 65, 83, 0) 65.7%), url(../img/lagona.png);
+  }
+
+  .special-bg-one10 {
+    background-image: url(../img/api.png);
+  }
+  
+  .special-bg-one10:hover {
+    background-image: linear-gradient(90deg, rgba(48, 64, 89, 0.84) -2.9%, rgba(53, 65, 83, 0) 65.7%), url(../img/api.png);
   }
   .special-bg-two {
     background-image: url(../../08_layout-stylization/img/special-crit.png);
