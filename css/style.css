@@ -904,4 +904,7 @@ h1, h2, h3 {
  
   .heder_ul_svg {
     stroke: #7FFFD4;
+    position: absolute;
+    top: 70px;
+    left: 15px;
   }
