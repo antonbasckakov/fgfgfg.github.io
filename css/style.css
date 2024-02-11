@@ -951,3 +951,10 @@ h1, h2, h3 {
     color: #FF0000;
     font-family: 'two';
   }
+
+  .fixed {
+    position: fixed;
+    width: 1170px;
+    margin: 0 auto;
+
+  }
