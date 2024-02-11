@@ -270,8 +270,9 @@ h1, h2, h3 {
   .img_h_one {
     position: absolute;
     width: 170px;
-    height: 150px;
+    height: 170px;
     right: 100px;
+    top: -10px;
   }
 
   .img_h2 {
