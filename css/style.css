@@ -89,6 +89,16 @@ h1, h2, h3 {
     font-style: normal;
 }
 
+@font-face {
+  font-family: 'ten';
+  src: url('../font/Cattedrale[RUSbypenka220]-Regular.ttf');
+  src: local('one'), local('one'),
+      url('../font/Cattedrale[RUSbypenka220]-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
 
 
 
@@ -340,7 +350,7 @@ h1, h2, h3 {
   }
 
   .special-h21 {
-    font-family:'tree';
+    font-family:'ten';
     font-size: 40px;
     color: #00FF00;
     position: relative;
