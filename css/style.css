@@ -267,6 +267,14 @@ h1, h2, h3 {
   .special-bg-one11:hover {
     background-image: linear-gradient(90deg, rgba(48, 64, 89, 0.84) -2.9%, rgba(53, 65, 83, 0) 65.7%), url(../img/xxs.png);
   }
+
+  .special-bg-one12 {
+    background-image: url(../img/android.png);
+  }
+  
+  .special-bg-one12:hover {
+    background-image: linear-gradient(90deg, rgba(48, 64, 89, 0.84) -2.9%, rgba(53, 65, 83, 0) 65.7%), url(../img/android.png);
+  }
   .special-bg-two {
     background-image: url(../../08_layout-stylization/img/special-crit.png);
   }
