@@ -856,7 +856,15 @@ h1, h2, h3 {
    
 
  }
-
+ .agalery_text_3 {
+  position: absolute;
+  font-family: 'seven';
+    color: #7FFFD4;
+    font-size: 40px;
+    top: 50px;
+    left: 205px;
+    transform: rotate(07deg)
+ }
  .asd {
     position: absolute;
   transform: rotate(90deg);
