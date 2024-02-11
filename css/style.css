@@ -862,9 +862,9 @@ h1, h2, h3 {
   font-family: 'seven';
     color: #7FFFD4;
     font-size: 40px;
-    top: 430px;
-    left: 205px;
-    transform: rotate(07deg)
+    top: 550px;
+    left: 305px;
+    transform: rotate(185deg)
  }
  .asd {
     position: absolute;
