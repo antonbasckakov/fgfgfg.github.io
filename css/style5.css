@@ -1,0 +1,42 @@
+
+
+html {
+    box-sizing: border-box;
+    cursor: url(https://cdn.custom-cursor.com/db/cursor/32/Friends_Monica_GellerCursor.png) , default !important
+  }
+  
+  *,
+  *::before *::after {
+    box-sizing: inherit;
+  }
+
+  ol, ul {
+	list-style: none;
+    padding: 0;
+}
+.container {
+    width: 1170px;
+    margin: 0 auto;
+  
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+    /*cursor: url(https://snipp.ru/demo/712/pointer-1.cur) 4 1, pointer;*/
+    cursor:  url(https://cdn.custom-cursor.com/db/pointer/32/It_Pennywise_Pointer.png)   , pointer !important;
+  }
+  @font-face {
+    font-family: 'six';
+    src: url('../font/Super_Squad_Rus.otf');
+    src: local('one'), local('one'),
+        url('../font/Super_Squad_Rus.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.sdsds {
+    font-family: 'six';
+    color: 	#000080;
+    font-size: 40px;
+}
