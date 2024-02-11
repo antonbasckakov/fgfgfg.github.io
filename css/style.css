@@ -955,9 +955,13 @@ h1, h2, h3 {
   .fixed {
     position: fixed;
     width: 1170px;
-    font-family: 'nine';
-   text-align: center;
-   color: #8B0000;
-   font-size: 20px;
-   z-index: 100;
+    z-index: 100;
+    
+  }
+  .fixed_style {
+    font-family:'nine';
+    text-align: center;
+    color: #8B0000;
+    font-size: 25px;
+    
   }
