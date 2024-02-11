@@ -789,7 +789,7 @@ h1, h2, h3 {
 }
 
 .ul_hard {
-    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'Gloria Hallelujah', 'cursive';
 	font-size: 1.4rem;
 	margin: 0;
 	padding: 1rem;
@@ -797,6 +797,7 @@ h1, h2, h3 {
 
 .li_hard {
     padding: 0 0 0 1rem;
+    te
 }
 
 .li_hard:first-child {
