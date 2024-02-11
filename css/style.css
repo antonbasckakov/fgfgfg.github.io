@@ -9,7 +9,7 @@ html {
   }
 
   ol, ul {
-	list-style: none;
+	list-style: none !important;
     padding: 0;
 }
 h1, h2, h3 {
