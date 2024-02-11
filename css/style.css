@@ -354,6 +354,10 @@ h1, h2, h3 {
     font-size: 50px;
     color: cyan;
     text-align: center;
+    margin-bottom: 80px;
+  }
+  
+  .special-h2_HEDER {
     margin-bottom: 150px;
   }
 
