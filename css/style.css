@@ -816,7 +816,7 @@ h1, h2, h3 {
 
  .heder_ul {
   display: flex;
-  height: 100vh;
+  
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -838,7 +838,8 @@ h1, h2, h3 {
       display: block;
       padding: 4px 0;
       font-family: 'seven', sans-serif;
-      color: #ecf0f1;
+      font-size: 40px;
+      color: #7FFFD4;
       text-decoration: none;
       text-transform: uppercase;
       transition: 0.5s;
