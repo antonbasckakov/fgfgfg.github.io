@@ -892,4 +892,11 @@ h1, h2, h3 {
     }
   }
 
+  .heder_ul_text {
+    font-family: 'seven';
+    color: #7FFFD4;
+    font-size: 40px;
+    position: absolute;
+    
+  }
  
