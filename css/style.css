@@ -959,4 +959,5 @@ h1, h2, h3 {
    text-align: center;
    color: #8B0000;
    font-size: 20px;
+   z-index: 100;
   }
